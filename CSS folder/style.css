@@ -1,0 +1,33 @@
+
+/* 
+* Student Name   : Sukhman kaur
+* Student Number : 8970912  
+   ========================================================================== */
+
+/**
+ * 1. CSS rule for the body element to set the font using the shorthand property .
+ * 2. background color using the HSLA method and the height and width using viewport units
+ */
+
+
+/* Document
+   ========================================================================== */
+
+/**
+ * 1. CSS rule for the body element to set the font using the shorthand property .
+ * 2. background color using the HSLA method and the height and width using viewport units
+ */
+ body{
+   font:  italic small-caps bold 21px Georgia, serif;;
+   background-color: hsla(290, 58%, 36%, 0.484);
+   width: 100vw;
+   height: 100vh;
+ } 
+ /*  
+ 1) css color code for h2 
+ 2) */
+ h2{
+   color:	#63A;
+   font-size: 2rem;
+   
+ }
